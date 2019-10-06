@@ -1,0 +1,93 @@
+{
+  "project_info": {
+    "project_number": "47681468159",
+    "firebase_url": "https://expensemanager-1cea3.firebaseio.com",
+    "project_id": "expensemanager-1cea3",
+    "storage_bucket": "expensemanager-1cea3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:47681468159:android:bbbccfbc12f92f77",
+        "android_client_info": {
+          "package_name": "com.example.payment_server"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "47681468159-3lkhtfnbemg6l2ui5m4ok95ftemf66h7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.payment_server",
+            "certificate_hash": "d18d47ed5027d34602989facbe1eb4535b4b60f2"
+          }
+        },
+        {
+          "client_id": "47681468159-oe6gak3p6qg8qon5ibv595fe2c9n3etj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.payment_server",
+            "certificate_hash": "fd934993bee853c277875f1d0284ff84d079bc6f"
+          }
+        },
+        {
+          "client_id": "47681468159-bkta45c2t2h1ldfu39eq4h3via7mitek.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrww9UwezQlBIm2XQubnbgkwm7LuHDXWw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "47681468159-bkta45c2t2h1ldfu39eq4h3via7mitek.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:47681468159:android:59cc0b84c6642ad1",
+        "android_client_info": {
+          "package_name": "com.icos.expensemanagementapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "47681468159-8m11bdo2652hjv49nioa3uqo4aj1mah9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.icos.expensemanagementapp",
+            "certificate_hash": "d18d47ed5027d34602989facbe1eb4535b4b60f2"
+          }
+        },
+        {
+          "client_id": "47681468159-bkta45c2t2h1ldfu39eq4h3via7mitek.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrww9UwezQlBIm2XQubnbgkwm7LuHDXWw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "47681468159-bkta45c2t2h1ldfu39eq4h3via7mitek.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
